@@ -1,0 +1,15 @@
+C:\Users\colin\source\repos\EntityDemo\EntityDemo\bin\Debug\Finance.mdf
+C:\Users\colin\source\repos\EntityDemo\EntityDemo\bin\Debug\FinanceDB.mdf
+C:\Users\colin\source\repos\EntityDemo\EntityDemo\bin\Debug\FinanceDB_log.ldf
+C:\Users\colin\source\repos\EntityDemo\EntityDemo\bin\Debug\Finance_log.ldf
+C:\Users\colin\source\repos\EntityDemo\EntityDemo\bin\Debug\EntityDemo.exe.config
+C:\Users\colin\source\repos\EntityDemo\EntityDemo\bin\Debug\EntityDemo.exe
+C:\Users\colin\source\repos\EntityDemo\EntityDemo\bin\Debug\EntityDemo.pdb
+C:\Users\colin\source\repos\EntityDemo\EntityDemo\bin\Debug\EntityFramework.dll
+C:\Users\colin\source\repos\EntityDemo\EntityDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\colin\source\repos\EntityDemo\EntityDemo\bin\Debug\EntityFramework.xml
+C:\Users\colin\source\repos\EntityDemo\EntityDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\colin\source\repos\EntityDemo\EntityDemo\obj\Debug\EntityDemo.csprojResolveAssemblyReference.cache
+C:\Users\colin\source\repos\EntityDemo\EntityDemo\obj\Debug\EntityDemo.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\EntityDemo\EntityDemo\obj\Debug\EntityDemo.exe
+C:\Users\colin\source\repos\EntityDemo\EntityDemo\obj\Debug\EntityDemo.pdb

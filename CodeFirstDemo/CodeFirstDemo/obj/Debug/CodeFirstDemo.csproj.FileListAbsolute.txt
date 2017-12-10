@@ -1,0 +1,13 @@
+C:\Users\colin\source\repos\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe.config
+C:\Users\colin\source\repos\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe
+C:\Users\colin\source\repos\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.pdb
+C:\Users\colin\source\repos\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.dll
+C:\Users\colin\source\repos\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\colin\source\repos\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.xml
+C:\Users\colin\source\repos\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\colin\source\repos\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csprojResolveAssemblyReference.cache
+C:\Users\colin\source\repos\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.exe
+C:\Users\colin\source\repos\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.pdb
+C:\Users\colin\source\repos\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.Migrations.CreatePost.resources
+C:\Users\colin\source\repos\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csproj.GenerateResource.Cache
